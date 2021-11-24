@@ -1,0 +1,19 @@
+.message-wrapper{
+    position: fixed;
+    top: 200px;
+    left: 38%;
+}
+
+.text-winner1{
+    color:green; 
+}
+
+.text-winner2{
+    color:red; 
+}
+
+.button{
+    background-color:white; 
+    border-color: gray;
+}
+

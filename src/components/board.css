@@ -1,0 +1,20 @@
+.game-wrapper{
+    
+}
+.board-wrapper{
+    position: fixed;
+    top: 150px;
+    left: 38%;
+}
+
+.display-player{
+    margin: 20px;
+}
+
+.player1-header{
+    color:green; 
+}
+
+.player2-header{
+    color:red; 
+}
