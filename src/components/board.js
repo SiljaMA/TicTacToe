@@ -126,7 +126,7 @@ export default class Board extends React.Component {
         return (
         <div className="game-wrapper">
         <div className="board-wrapper">
-            {this.state.board.map((row, i) => ( //placerer brikkerne 
+            {this.state.board.map((row, i) => ( 
                 row.map((entry, j) =>
                     <Field key={entry.id} posX={entry.x} posY={entry.y} 
                         switchCurrentPlayer={this.switchCurrentPlayer} 

@@ -17,7 +17,6 @@ export default class Tictoc extends React.Component {
     }
 
     gameFinished(winner){
-        console.log("Game end, player: " + winner + " has won"); 
         this.setState({winner : winner}); 
         this.setState({hasEnded: true}); 
 
