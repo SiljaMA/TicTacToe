@@ -1,13 +1,8 @@
 # Just a simple tic toe game 
 
 ## Available Scripts
+Clone først repo'et ned. Kør derefter npm build for at bygge projektet, eller npm start for at kører projektet i development mode. Sidst nævnte vil kører spillet på http://localhost:3000 
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Source code
 Folderen src indeholder source koden for spillet. Den indeholder bla. folderen components, der indeholder de forskellige komponenter, der indegår i spillet samt deres css-filer. 
