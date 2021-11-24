@@ -1,6 +1,5 @@
-# Just a simple tic toe game 
+# Bare et simpelt tic toc spil 
 
-## Available Scripts
 Clone først repo'et ned. Kør derefter npm build for at bygge projektet, eller npm start for at kører projektet i development mode. Sidst nævnte vil kører spillet på http://localhost:3000 
 
 
