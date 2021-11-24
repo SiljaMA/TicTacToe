@@ -100,6 +100,7 @@ export default class Board extends React.Component {
             this.props.gameFinished(currentPlayer); 
         }
         else if(isDraw){
+            //the game is draw and therefor also ending the game
             this.props.gameFinished("");
         }else{
             //just continue to play

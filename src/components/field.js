@@ -27,7 +27,6 @@ export default class Field extends React.Component {
             }
             this.setState({hasElement: true});
             this.props.checkWinner(this.state.posX, this.state.posY); 
-            //this.props.switchCurrentPlayer();
         }
     }
 
